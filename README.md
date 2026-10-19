@@ -14,17 +14,6 @@ Final-year B.Tech student at IIIT Manipur, building multi-tenant SaaS products a
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 Final-year B.Tech, Electronics & Communication Engineering at **IIIT Manipur** (expected 2027)
-- 💼 Freelance full stack developer since **2023**, delivering client websites end to end (requirements, UI, deployment, domain/DNS, hosting)
-- 🏗️ Built a **multi-tenant SaaS** with JWT/OAuth auth, RBAC, real-time chat and AI-assisted support
-- 🤖 Exploring **Generative AI**: RAG, tool calling, LangGraph agents, guardrails and evaluation
-- 🧠 Strong foundation in **DSA**, REST API design and cloud deployment
-
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -85,28 +74,6 @@ Final-year B.Tech student at IIIT Manipur, building multi-tenant SaaS products a
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 💼 Experience
-
-| Role | Organization | Period |
-|------|--------------|--------|
-| Freelance Full Stack Developer | Self-Employed | 2023 – Present |
-| AI Intern | Microsoft x Edunet Foundation (AICTE) | Apr 2025 – May 2025 |
-| Cyber Security Intern | Microsoft x Edunet Foundation (AICTE) | Jan 2025 – Feb 2025 |
-
-**Freelance highlights:** delivered multiple MERN client websites end to end, managed Google Play Store publishing for an international team, and ran Meta Ads campaigns for clients.
-
----
-
-## 🏅 Certifications
-
-- Prompt Engineering, Kaggle
-- Google Cloud Skill Badges: Manage Kubernetes in Google Cloud, Analyze Images with the Cloud Vision API, GKE and IAP Zero Trust labs (2025)
-- Microsoft Learn: 6 learning paths, 28 modules (Generative AI, Azure AI Document Intelligence, NLP)
-- Data Structures & Algorithms, Algo University
-- Overview of Space Science and Technology, IIRS, ISRO
 
 ---
 
