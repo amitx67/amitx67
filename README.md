@@ -77,13 +77,6 @@ Final-year B.Tech student at IIIT Manipur, building multi-tenant SaaS products a
 
 ---
 
-## 📫 Let's Connect
-
-I'm open to **SDE roles**, internships and freelance collaborations.
-
-- 🌐 Portfolio: [amit67.netlify.app](https://amit67.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/amixshi](https://linkedin.com/in/amixshi)
-- 📧 Email: [akira29v@gmail.com](mailto:akira29v@gmail.com)
 
 <div align="center">
 
