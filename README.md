@@ -21,7 +21,7 @@ Final-year B.Tech student at IIIT Manipur, building multi-tenant SaaS products a
 - 🏗️ Built a **multi-tenant SaaS** with JWT/OAuth auth, RBAC, real-time chat and AI-assisted support
 - 🤖 Exploring **Generative AI**: RAG, tool calling, LangGraph agents, guardrails and evaluation
 - 🧠 Strong foundation in **DSA**, REST API design and cloud deployment
-- 📍 Based in Manipur, India
+
 
 ---
 
@@ -85,25 +85,6 @@ Final-year B.Tech student at IIIT Manipur, building multi-tenant SaaS products a
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### SupportFlow: Multi-Tenant Customer Support SaaS
-
-`React` `TypeScript` `Node.js` `MongoDB` `Socket.IO`
-
-A platform where each company manages its own agents, customers and tickets, with strict tenant isolation.
-
-- 🏢 **Multi-tenancy:** `workspaceId` on every document and query to isolate tenant data
-- 🔐 **Auth & security:** JWT access/refresh tokens, Google/GitHub OAuth, 4-role RBAC, Helmet, CORS, rate limiting and input validation
-- 💬 **Real-time chat:** customer-to-agent messaging with Socket.IO (rooms, typing indicators, online presence)
-- 📊 **Analytics:** responsive React + TypeScript dashboard with Recharts, powered by MongoDB aggregation pipelines
-- 🧱 **Architecture:** 8 Mongoose models and a layered REST API (routes, controllers, services) with pagination, indexing, global error handling and logging
-- 💳 **Integrations:** email and third-party APIs with Free/Pro/Business plan gating
-- 🤖 **AI features:** RAG over a tenant-filtered knowledge base (Atlas Vector Search), automated ticket summaries, and a tool-calling agent with human-agent handoff
-- ☁️ **Deployment:** Vercel, Render/Railway and MongoDB Atlas; API tested with Postman
 
 ---
 
