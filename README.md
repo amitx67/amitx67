@@ -80,6 +80,6 @@ Final-year B.Tech student at IIIT Manipur, building multi-tenant SaaS products a
 
 <div align="center">
 
-⭐ Thanks for stopping by!
+⭐ Thanks for stopping!
 
 </div>
